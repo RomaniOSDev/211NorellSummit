@@ -1,0 +1,6 @@
+framework module Pods_211NorellSummit {
+  umbrella header "Pods-211NorellSummit-umbrella.h"
+
+  export *
+  module * { export * }
+}
