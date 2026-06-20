@@ -7,7 +7,7 @@ workflows:
         vars:
           XCODE_WORKSPACE: "211NorellSummit.xcworkspace"
           XCODE_SCHEME: "211NorellSummit"
-          BUNDLE_ID: "com.ewo.n0r3lls8mm1t"
+          BUNDLE_ID: "com.url.k473gp0r1k"
           APP_STORE_APP_ID: 6756367614
         xcode: latest
         cocoapods: 1.14.2
